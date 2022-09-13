@@ -5,4 +5,4 @@
 ![리니어즈_영어](https://user-images.githubusercontent.com/81104902/188835364-7b282ace-3436-4e8b-b97a-d042ccf5ab5c.png)
 ![리니어즈_한글](https://user-images.githubusercontent.com/81104902/189074880-f39ac174-5979-4284-8198-ff962ce1e5de.png)
 - 팀원 소개
-김우빈, 권예슬, 석재호, 전병찬, 정아현
+![팀원 소개](https://user-images.githubusercontent.com/81104902/189853933-c096118f-e48e-4098-9953-c3f12e321106.png)
