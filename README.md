@@ -27,3 +27,4 @@
 ## 🟠 Reniors - 기술 스택
 ### Back-end
 - IntelliJ IDEA
+- Spring Boot 2.7.2
