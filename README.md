@@ -28,3 +28,4 @@
 ### Back-end
 - IntelliJ IDEA
 - Spring Boot 2.7.2
+- Spring Data JPA
