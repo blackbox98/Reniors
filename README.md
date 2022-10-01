@@ -30,3 +30,4 @@
 - Spring Boot 2.7.2
 - Spring Data JPA
 - Spring Security
+- Spring Web
