@@ -32,3 +32,4 @@
 - Spring Security
 - Spring Web
 - Spring Validation
+- QueryDSL
