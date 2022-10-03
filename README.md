@@ -31,3 +31,4 @@
 - Spring Data JPA
 - Spring Security
 - Spring Web
+- Spring Validation
