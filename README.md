@@ -33,3 +33,4 @@
 - Spring Web
 - Spring Validation
 - QueryDSL
+- WebSocket
