@@ -34,3 +34,4 @@
 - Spring Validation
 - QueryDSL
 - WebSocket
+- Swagger 3.0.0
