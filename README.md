@@ -38,3 +38,4 @@
 - MySQL DB
 
 ### Front-end
+- Visual Studio Code IDE
