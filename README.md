@@ -40,3 +40,4 @@
 ### Front-end
 - Visual Studio Code IDE
 - Vue 3
+- Vue bootstrap
