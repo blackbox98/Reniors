@@ -41,3 +41,4 @@
 - Visual Studio Code IDE
 - Vue 3
 - Vue bootstrap
+- Vuex
