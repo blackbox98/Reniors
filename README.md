@@ -42,3 +42,6 @@
 - Vue 3
 - Vue bootstrap
 - Vuex
+
+### CI/CD
+- AWS EC2
