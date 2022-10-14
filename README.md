@@ -45,3 +45,4 @@
 
 ### CI/CD
 - AWS EC2
+- AWS S3
