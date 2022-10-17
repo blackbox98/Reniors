@@ -48,3 +48,4 @@
 - AWS S3
 - Docker
 - Jenkins
+- Nginx
