@@ -61,3 +61,4 @@
 - JIRA
   - 매주 목표량을 설정하여 Sprint 진행
   - 업무의 Story Point를 설정하고 작업
+- 회의
