@@ -74,3 +74,5 @@
 ## 🟠 Reniors - 서비스 화면
 
 ![0 _login1](https://user-images.githubusercontent.com/81104902/200441628-0c739315-4834-4c7e-8f90-43798c6fb90b.png)
+
+![1 _mainpage](https://user-images.githubusercontent.com/81104902/200699604-7437e38b-824f-4783-a5d0-3e968a3beb9b.png)
