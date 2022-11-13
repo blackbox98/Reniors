@@ -82,3 +82,5 @@
 ![3 _recommendation-d](https://user-images.githubusercontent.com/81104902/201238261-5e1397fc-db5b-4d5a-a5d0-ae3f60f21eae.png)
 
 ![5 _footer-jobopening](https://user-images.githubusercontent.com/81104902/201452378-8b734fac-be8e-4179-9e75-e0d38d325f5b.png)
+
+![6 _totalJobopening](https://user-images.githubusercontent.com/81104902/201502359-64368489-8d51-4fc0-a7ea-08fe303ec958.png)
