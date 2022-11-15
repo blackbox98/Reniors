@@ -88,3 +88,5 @@
 ![7 _conditionJobopening-a](https://user-images.githubusercontent.com/81104902/201555887-ec7a7f21-d4bc-4e8f-ae66-2480ba870a1f.png)
 
 ![8 _community](https://user-images.githubusercontent.com/81104902/201832497-2136f693-c1c1-484a-85b3-4ef0491a9884.png)
+
+![9 _community-detail](https://user-images.githubusercontent.com/81104902/202049399-1990c077-0c11-4ecb-9552-ef29f04f5449.png)
