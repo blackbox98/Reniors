@@ -86,3 +86,5 @@
 ![6 _totalJobopening](https://user-images.githubusercontent.com/81104902/201555876-454bc6dd-2f7b-424e-be8d-786f1bf56b8e.png)
 
 ![7 _conditionJobopening-a](https://user-images.githubusercontent.com/81104902/201555887-ec7a7f21-d4bc-4e8f-ae66-2480ba870a1f.png)
+
+![8 _community](https://user-images.githubusercontent.com/81104902/201832497-2136f693-c1c1-484a-85b3-4ef0491a9884.png)
