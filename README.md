@@ -90,3 +90,5 @@
 ![8 _community](https://user-images.githubusercontent.com/81104902/201832497-2136f693-c1c1-484a-85b3-4ef0491a9884.png)
 
 ![9 _community-detail](https://user-images.githubusercontent.com/81104902/202049399-1990c077-0c11-4ecb-9552-ef29f04f5449.png)
+
+![10 _interviewPractice](https://user-images.githubusercontent.com/81104902/202353790-1cef07cd-c68e-4b99-ae50-6a169354aeb4.png)
