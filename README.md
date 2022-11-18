@@ -92,3 +92,5 @@
 ![9 _community-detail](https://user-images.githubusercontent.com/81104902/202049399-1990c077-0c11-4ecb-9552-ef29f04f5449.png)
 
 ![10 _interviewPractice](https://user-images.githubusercontent.com/81104902/202353790-1cef07cd-c68e-4b99-ae50-6a169354aeb4.png)
+
+![11 _videoPracticePage-a](https://user-images.githubusercontent.com/81104902/202601593-64457b7f-87f8-4d7c-95c9-c93e97b67f81.png)
