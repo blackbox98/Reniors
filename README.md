@@ -94,3 +94,5 @@
 ![10 _interviewPractice](https://user-images.githubusercontent.com/81104902/202353790-1cef07cd-c68e-4b99-ae50-6a169354aeb4.png)
 
 ![11 _videoPracticePage-a](https://user-images.githubusercontent.com/81104902/202601593-64457b7f-87f8-4d7c-95c9-c93e97b67f81.png)
+
+![12 _recording-b](https://user-images.githubusercontent.com/81104902/202837121-392a5418-1757-47c8-b2c1-8c71ca63c5df.png)
