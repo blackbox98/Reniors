@@ -98,3 +98,5 @@
 ![12 _recording-b](https://user-images.githubusercontent.com/81104902/202837121-392a5418-1757-47c8-b2c1-8c71ca63c5df.png)
 
 ![13 _practiceBoxPage-a](https://user-images.githubusercontent.com/81104902/202864223-081d9093-6131-4289-859e-a47673583bfd.png)
+
+![14 _practiceBoxPage-b](https://user-images.githubusercontent.com/81104902/202977162-679fabfc-ffa7-497b-a44a-6d47dbcde6ad.png)
