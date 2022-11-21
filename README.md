@@ -100,3 +100,5 @@
 ![13 _practiceBoxPage-a](https://user-images.githubusercontent.com/81104902/202864223-081d9093-6131-4289-859e-a47673583bfd.png)
 
 ![14 _practiceBoxPage-b](https://user-images.githubusercontent.com/81104902/202977162-679fabfc-ffa7-497b-a44a-6d47dbcde6ad.png)
+
+![15 _footer-video](https://user-images.githubusercontent.com/81104902/203181949-eb894387-f147-437d-b733-f2eaf6eb9e59.png)
